@@ -16,8 +16,8 @@ I'm consulting technology courses and tutorials to be constantly learning new te
 **Learning:**
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-  <!--
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  alt="vue" width="35" height="35"/>
 --> </p>
   
