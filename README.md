@@ -1,4 +1,4 @@
-FelipeL12 - Frontend Developer
+FelipeL12 - Software Developer
 --
 I'm always looking to learn new things. Currently I focus on frontend web development. <br>
 I'm consulting technology courses and tutorials to be constantly learning new technologies.
