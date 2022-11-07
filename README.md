@@ -6,10 +6,10 @@ I'm consulting technology courses and tutorials to be constantly learning new te
 **Currently working with:**
 
 <p>
-    <img src="icons/iconGit.png" alt="git">
-    <img src="icons/iconHtml.png" alt="html">
-    <img src="icons/iconCss.png" alt="css">
-    <img src="icons/iconJs.png" alt="js">
+    <img src="icons/iconGit.png" alt="git" height="38" width="38">
+    <img src="icons/iconHtml.png" alt="html" height="38" width="38">
+    <img src="icons/iconCss.png" alt="css" height="38" width="38">
+    <img src="icons/iconJs.png" alt="js" height="38" width="38">
 </p>
 
 **Learning:**
