@@ -15,7 +15,7 @@ I'm consulting technology courses and tutorials to be constantly learning new te
 **Learning:**
 
 <p>
- <img src="icons/iconJava.png" alt="java" height="35" width="35">
+ <img src="icons/iconJava.png" alt="java" >
  </p>
   
 **Social Media:**
