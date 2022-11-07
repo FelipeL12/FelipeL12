@@ -6,20 +6,17 @@ I'm consulting technology courses and tutorials to be constantly learning new te
 **Currently working with:**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+    <img src="icons/iconGit.png" alt="git" height="35" width="35">
+    <img src="icons/iconHtml.png" alt="html" height="35" width="35">
+    <img src="icons/iconCss.png" alt="css" height="35" width="35">
+    <img src="icons/iconJs.png" alt="js" height="35" width="35">
 </p>
 
 **Learning:**
 
 <p>
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  alt="vue" width="35" height="35"/>
---> </p>
+ <img src="icons/iconJava.png" alt="java" height="35" width="35">
+ </p>
   
 **Social Media:**
 
